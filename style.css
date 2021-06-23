@@ -1,0 +1,26 @@
+#search{
+    transition-duration: 0.4s;
+    color: darkcyan;
+    background-color: gainsboro;
+    border: 2px solid darkcyan;
+    border-radius: 20px;
+    width: 115px;
+    font-weight: bold;
+}
+#search:hover{
+    background-color: darkcyan;
+    color: gainsboro;
+}
+
+#plus{
+border: solid 2px mediumseagreen;
+    border-radius: 50%;
+    color: white;
+    background-color: mediumseagreen;
+}
+#Account{
+    box-shadow: 2px 2px 2px black;
+    color: white;
+    background-color: mediumblue;
+    border: solid black 1px;
+}
